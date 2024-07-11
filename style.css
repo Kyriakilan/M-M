@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family:Copperplate;
+}
+header p {
+    text-align:left;
+    font-size: 20px;
+}
+main p {
+    font-size: 20px;
+    font-family: Copperplate;
+    background-color:#0000cc;
+    text-align: center;
+}
+footer p {
+ font-size: 20px;
+    font-family: Copperplate;
+    background-color: #00b377;
+    text-align: center;
+
+}
